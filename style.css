@@ -1732,6 +1732,7 @@ img {
   line-height: 32px;
   line-height: 2rem;
   color: #ffffff;
+  padding-left: -10px;
 }
 .team-item-title {
   line-height: normal;
